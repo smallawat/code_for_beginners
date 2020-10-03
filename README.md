@@ -45,10 +45,10 @@ Quality Standards
  Now, If you want to contribute then follow theses steps
 
       1.fork the repo.
-      2.take the algorithm which you want to add to list
+      2.chose the file which you want to add the code
       3.Make sure it's not repeated.
       4.Be ready with your code in any language 
-      5.Add code file in folder and name the folder with problem name. 
+      5.Add code file in folder and name the folder with code statement.
       6.after adding code make a pull request 
       7.Add your name in contributor file 
     
