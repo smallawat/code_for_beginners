@@ -1,0 +1,4 @@
+
+pinMode(2, OUTPUT) − Before you can use one of Arduino’s pins, you need to tell Arduino Uno R3 whether it is an INPUT or OUTPUT. We use a built-in “function” called pinMode() to do this.
+
+digitalWrite(2, HIGH) − When you are using a pin as an OUTPUT, you can command it to be HIGH (output 5 volts), or LOW (output 0 volts).

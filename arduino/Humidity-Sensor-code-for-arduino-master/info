@@ -1,0 +1,2 @@
+Humidity Sensor (DHT22)
+The DHT-22 (also named as AM2302) is a digital-output, relative humidity, and temperature sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and sends a digital signal on the data pin.
