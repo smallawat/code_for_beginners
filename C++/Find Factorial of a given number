@@ -6,6 +6,8 @@ int main()
     unsigned int n;
     unsigned long long factorial = 1;
 
+    //Taking user input
+
     cout << "Enter a positive integer: ";
     cin >> n;
 
